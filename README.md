@@ -1,6 +1,6 @@
 # API Consumer Application
 
-Este projeto é uma aplicação Java que consome uma API externa para buscar e exibir dados. O objetivo é demonstrar como fazer requisições HTTP e processar as respostas utilizando bibliotecas comuns em Java.
+Este projeto é uma aplicação Java que consome uma API externa para buscar e exibir dados. O principal objetivo é aprender mais sobre Java e demonstrar um pouco como fazer requisições HTTP e processar as respostas utilizando bibliotecas comuns em Java.
 
 ## Funcionalidades
 
